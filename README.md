@@ -1,6 +1,6 @@
 # INSUL - Your Personal Diabetic Expert
 
-![INSUL](https://github.com/user-attachments/assets/89e1c60b-dd9a-4f21-9c9d-9f577f88fcb8)
+![INSUL-2](https://github.com/user-attachments/assets/8c486cc3-46b2-4d5d-abc9-503d57dc3f22)
 
 ---
 
